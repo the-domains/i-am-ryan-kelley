@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[I am Ryan Kelley]]></title>
         <description><![CDATA[I am Ryan Kelley]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/i-am-ryan-kelley/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 14 May 2016 14:00:25 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sat, 14 May 2016 14:02:52 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/i-am-ryan-kelley/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[This is a test post]]></title>
-            <description><![CDATA[<p>Text</p>]]></description>
-            <link>undefinedthis-is-a-test-post/index.html</link>
+            <description><![CDATA[<p>www.facebook.com</p>]]></description>
+            <link>https://thegrid.ai/i-am-ryan-kelley/this-is-a-test-post/index.html</link>
             <guid isPermaLink="false">5d5a439d-1213-4860-967e-52acbad1bef4</guid>
-            <pubDate>Sat, 14 May 2016 14:00:24 GMT</pubDate>
+            <pubDate>Sat, 14 May 2016 14:02:51 GMT</pubDate>
         </item>
     </channel>
 </rss>
